@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d947915b-ac44-48df-8ad4-a9fe68ffe1b2)# Drone-Navigation-Simulator
+# Drone-Navigation-Simulator
 
 **Introduction:**
 
